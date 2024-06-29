@@ -7,7 +7,8 @@ To deploy a pre-trained or Fine tuned GPT model using HUGGING FACE SPACES, makin
 
 ## Skills Takeaway
 
--My SQL
+- Python
+- My SQL
 - Deep Learning
 - Transformers
 - Hugging face models
